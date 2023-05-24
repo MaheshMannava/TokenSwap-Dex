@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from "../naruto.jpg";
+import Logo from "../milady.jpg";
 import Eth from "../eth.svg";
 import { Link } from "react-router-dom";
 
